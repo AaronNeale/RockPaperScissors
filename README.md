@@ -1,4 +1,4 @@
 RockPaperScissors
 =================
 
-My first JavaScript project
+My first JavaScript project - go easy on me :)
